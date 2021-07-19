@@ -9,14 +9,11 @@
   
 </p>
 
-<h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src="imagens-git/Rocketq.png" width="100%" />
-</h1>
 
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src=".github/Rocket_Q.png" width="100%">
+  <img alt="Rocket.Q" src="images-git/Rocket_Q.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
