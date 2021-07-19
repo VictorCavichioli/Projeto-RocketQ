@@ -9,7 +9,9 @@
   
 </p>
 
-
+<h1 align="center">
+  <img alt="Rocket.Q" title="Rocket.Q" src="imagens-git/Rocketq.png" width="100%" />
+</h1>
 
 <br>
 
