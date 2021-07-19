@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src="images-git/Rocket_Q.png" width="100%">
+  <img alt="Rocket.Q" src="imagens-git/Rocket_Q.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
